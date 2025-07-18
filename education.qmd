@@ -1,0 +1,12 @@
+---
+title: "Eduction"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+- 2024.4-2025.6 &emsp;  加拿大 Iroquois Ridge High School
+  - [IR website](https://irs.hdsb.ca/),&ensp; [加拿大安省高中排名](https://en.wikipedia.org/wiki/Iroquois_Ridge_High_School): 10/739
+- 2022.9-2024.4 &emsp;  中山大学附属中学
+  - 英语课代表 / 体育委员
+- 2016.9-2022.6 &emsp; 中山大学附属小学

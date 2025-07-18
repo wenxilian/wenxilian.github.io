@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Wenxi Lian"
+  site-url: https://wenxilian.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/wenxilian/wenxilian.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [github]( https://github.com/wenxilian)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -22,16 +22,12 @@ website:
     right: 
       - text: "Home"
         href: index.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
+      - text: "Education"
+        href: education.qmd
+      - text: "Awards"
+        href: awards.qmd
+      #- text: "中文"
+      #  href: Chinese.qmd
       #- text: "CV"
       #  href: misc/info/CV-CZ-2407.pdf
 
