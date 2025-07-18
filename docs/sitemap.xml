@@ -2,30 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wenxilian.github.io/readme.html</loc>
-    <lastmod>2025-07-18T02:45:33.424Z</lastmod>
+    <lastmod>2025-07-18T03:23:08.544Z</lastmod>
   </url>
   <url>
-    <loc>https://wenxilian.github.io/education.html</loc>
-    <lastmod>2025-07-18T03:17:42.378Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wenxilian.github.io/awards.html</loc>
-    <lastmod>2025-07-18T03:16:40.571Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wenxilian.github.io/about.html</loc>
-    <lastmod>2025-07-18T03:02:13.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wenxilian.github.io/assets/连文熙简历-2025.html</loc>
-    <lastmod>2025-07-02T12:54:10.512Z</lastmod>
+    <loc>https://wenxilian.github.io/index.html</loc>
+    <lastmod>2025-07-18T08:12:54.399Z</lastmod>
   </url>
   <url>
     <loc>https://wenxilian.github.io/Chinese.html</loc>
     <lastmod>2025-07-18T03:10:10.930Z</lastmod>
   </url>
   <url>
-    <loc>https://wenxilian.github.io/index.html</loc>
-    <lastmod>2025-07-18T03:08:15.219Z</lastmod>
+    <loc>https://wenxilian.github.io/assets/Wenxi-Lian-CV.html</loc>
+    <lastmod>2025-07-18T07:40:50.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wenxilian.github.io/about.html</loc>
+    <lastmod>2025-07-18T03:02:13.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wenxilian.github.io/assets/Wenxi-Lian-CV-table.html</loc>
+    <lastmod>2025-07-18T07:40:24.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wenxilian.github.io/awards.html</loc>
+    <lastmod>2025-07-18T03:16:40.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wenxilian.github.io/education.html</loc>
+    <lastmod>2025-07-18T03:17:42.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wenxilian.github.io/publications.html</loc>
+    <lastmod>2025-07-18T03:00:22.250Z</lastmod>
   </url>
 </urlset>
